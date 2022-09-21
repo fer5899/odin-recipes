@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(245, 201, 107);
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(158, 108, 0)
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(238, 188, 81);
+}
+
+.mainimg {
+    height: 300px;
+    width: auto;
+}
+
+.landinglist {
+    font-size: 25px;
+    line-height: 50px;
+}
+
+ul, ol, p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(58, 41, 3);
+}
+
+a {
+    color:rgb(158, 108, 0)
+}
+
+a#back-home {
+    color: rgb(238, 188, 81)
+}
+
+button {
+    background-color: rgb(158, 108, 0);
+    font-size: 20px;
+}
+
