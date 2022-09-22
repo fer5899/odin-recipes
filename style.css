@@ -21,6 +21,8 @@ body {
 .landinglist {
     font-size: 25px;
     line-height: 50px;
+    list-style: none;
+    text-align: center
 }
 
 ul, ol, p {
@@ -30,15 +32,19 @@ ul, ol, p {
 }
 
 a {
-    color:rgb(158, 108, 0)
+    color:rgb(158, 108, 0);
+    text-decoration: none;
 }
 
 a#back-home {
-    color: rgb(238, 188, 81)
+    color: rgb(238, 188, 81);
+    padding: 20px;
+    display: inline-block;
 }
 
 button {
     background-color: rgb(158, 108, 0);
     font-size: 20px;
+    display: block;
 }
 
